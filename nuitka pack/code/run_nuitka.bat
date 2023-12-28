@@ -1,0 +1,1 @@
+python -m nuitka --standalone --show-progress --show-memory --enable-plugin=matplotlib,tk-inter --output-dir=result inference.py
